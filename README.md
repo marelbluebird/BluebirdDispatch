@@ -21,10 +21,10 @@ By using this template, you can streamline your test automation setup, reduce co
 1. **Clone the repository:**
    ```bash
    # Clone with SSH
-   git clone git@gitssh.bluebird.id:qa-bluebirdgroup/api-automation-test-template-using-jest.git
-
+   git clone git@github.com:marelbluebird/BluebirdDispatch.git
    # Clone with HTTPS
-   git clone https://git.bluebird.id/qa-bluebirdgroup/api-automation-test-template-using-jest.git
+   git clone https://github.com/marelbluebird/BluebirdDispatch.git
+ 
    ```
 2. **Navigate to the project directory:**
    ```bash
@@ -71,10 +71,8 @@ By using this template, you can streamline your test automation setup, reduce co
 
 Contributors names and contact info
 
-[@yophiza.tulus](https://git.bluebird.id/yophiza.tulus)
-[@pahmi.deri](https://git.bluebird.id/pahmi.deri)
-[@muhamad.adly](https://git.bluebird.id/muhamad.adly)
-[@dimas.ilham](https://git.bluebird.id/dimas.ilham)
+@Ramdhan
+@Tiara
 
 ## License
 
